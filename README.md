@@ -4,6 +4,8 @@ Team: Haasitha Pidaparthi, Daniel Kim, Simrandeep Singh
 Dataset Source: UCSD - Amazon Review Data (2018)
 https://nijianmo.github.io/amazon/index.html#subsets
 
+Size: “Small” subset of 5-core reviews (713 MB) - 1.7 million rows
+
 ## Motivation
 * Most online e-commerce sites use some type of recommendation system
   * Amazon uses item-based collaborative filtering
